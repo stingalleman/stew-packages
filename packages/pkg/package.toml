@@ -1,8 +1,0 @@
-[package]
-name = "pkg"
-description = "Package description"
-license = "Must be a SPDX indentifier (https://spdx.org/licenses/)"
-version = "Latest version"
-homepage = "URL to website, etc"
-head = "URL to Git repository (if any)"
-availableVersions = ["Array with all available versions"]

@@ -1,0 +1,8 @@
+[package]
+name = "package-test"
+description = "This is a test package for Stew, made by Kees."
+license = "GPL-3.0-only"
+version = "0.0.1"
+homepage = "https://github.com/keesvv"
+head = "https://github.com/keesvv/stew-packages/tree/main/packages/package-test"
+availableVersions = ["0.0.1"]
