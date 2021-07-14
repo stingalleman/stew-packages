@@ -1,0 +1,5 @@
+[repository]
+name = "repo-name"
+author = "author-name"
+packagesPath = "packages"
+maintainers = ["FirstName LastName <email?>"]
