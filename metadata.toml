@@ -1,5 +1,5 @@
 [repository]
 name = "kees-stew"
-author = "Kees van Voorthuizen"
+author = "keesvv"
 packagesPath = "packages"
 maintainers = ["Kees van Voorthuizen <me@keesvv.nl>"]
